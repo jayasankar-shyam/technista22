@@ -3614,3 +3614,23 @@ input:required {
 .tech-speaker-card {
   width: 300px;
 }
+.button-custom {
+  border-radius: 20px;
+  padding: 10px 25px;
+  background: linear-gradient(90deg, #b52525 7%, #f92525 52%, #f92525 100%);
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-top: 10px;
+  transition: 0.2s;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.button-custom:hover {
+  background: #fff;
+  color: #f92525;
+  padding: 10px 30px;
+  
+  
+}
