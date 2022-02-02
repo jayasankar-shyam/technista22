@@ -3268,6 +3268,7 @@ input:required {
     padding-left: 15px;
     padding-right: 15px;
   }
+
 }
 
 .single-ticket-pricing-table {
@@ -3613,6 +3614,9 @@ input:required {
 /*# sourceMappingURL=style.css.map */
 .tech-speaker-card {
   width: 300px;
+}
+.tech-ev-card {
+  width: 400px;
 }
 .button-custom {
   border-radius: 20px;
